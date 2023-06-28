@@ -1,8 +1,8 @@
 # grpc-payment-rust
 grpc implemented in rust for CAD payments
 
-# h1 Run Server
+## Run Server
 `carog run --bin server`
 
-# h1 Run Client
+## Run Client
 `carog run --bin client`
